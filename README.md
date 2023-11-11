@@ -7,6 +7,14 @@
   <br>
 </p>
 
+### Hi there 👋, my name is Cloud
+#### Prepare for Cloudy Days to Come
+I am a Cloud Engineer with past experience working as systems engineer.  
+
+Skills: AWS / Azure / Terraform / Windows Server/ Linux Server / VMware / Kubernetes / Docker / Data Centers / etc
+
+- 🔭 I’m currently working on this page. 
+
 <details>
 <summary>Click for Info</a></summary>
 <br>
