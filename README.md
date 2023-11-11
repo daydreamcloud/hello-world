@@ -13,8 +13,8 @@
   
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=828282&center=true&vCenter=true&width=960&lines=Get+to+know+me+better..."
-         alt="Typing SVG - Get to know me better" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=828282&center=true&vCenter=true&width=960&lines=What+is+going+on+???..."
+         alt="Typing SVG - What is going on?" />
   </a>
 </p>
 
